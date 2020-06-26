@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jX0q5sq6wMFLXdPHtgCY2mCvckIV8OuBNYv9Zg87CNxkS179c2MqnI+5O/8rf7oC3pdcIvQJocTJGpH/i2lzXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Allan\\source\\repos\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki\\AppRoboWiki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Allan\\.nuget\\packages\\algorithmia.client\\1.0.5\\algorithmia.client.1.0.5.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Allan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

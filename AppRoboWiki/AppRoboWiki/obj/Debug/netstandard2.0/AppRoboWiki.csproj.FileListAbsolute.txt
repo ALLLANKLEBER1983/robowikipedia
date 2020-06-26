@@ -1,0 +1,15 @@
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\bin\Debug\netstandard2.0\AppRoboWiki.deps.json
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\bin\Debug\netstandard2.0\AppRoboWiki.dll
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\AppRoboWiki.AssemblyInfoInputs.cache
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\AppRoboWiki.AssemblyInfo.cs
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\bin\Debug\netstandard2.0\ref\AppRoboWiki.dll
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\bin\Debug\netstandard2.0\AppRoboWiki.pdb
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\AppRoboWiki.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\AppRoboWiki.dll
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\ref\AppRoboWiki.dll
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\AppRoboWiki.pdb
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\AppRoboWiki.csprojAssemblyReference.cache
+C:\Users\Allan\source\repos\AppRoboWiki\AppRoboWiki\AppRoboWiki\obj\Debug\netstandard2.0\PagePesquisa.xaml.g.cs

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppRoboWiki.Android", "AppRoboWiki\AppRoboWiki.Android\AppRoboWiki.Android.csproj", "{26E9815E-3807-4ABD-ADFA-3B8F57F03E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppRoboWiki", "AppRoboWiki\AppRoboWiki\AppRoboWiki.csproj", "{9D468C5A-0399-487E-9696-D37162EB3E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E9815E-3807-4ABD-ADFA-3B8F57F03E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E9815E-3807-4ABD-ADFA-3B8F57F03E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E9815E-3807-4ABD-ADFA-3B8F57F03E14}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{26E9815E-3807-4ABD-ADFA-3B8F57F03E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E9815E-3807-4ABD-ADFA-3B8F57F03E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E9815E-3807-4ABD-ADFA-3B8F57F03E14}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9D468C5A-0399-487E-9696-D37162EB3E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D468C5A-0399-487E-9696-D37162EB3E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D468C5A-0399-487E-9696-D37162EB3E8A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9D468C5A-0399-487E-9696-D37162EB3E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D468C5A-0399-487E-9696-D37162EB3E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D468C5A-0399-487E-9696-D37162EB3E8A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A685A790-A95D-43D5-91A9-1878C7D21FCB}
+	EndGlobalSection
+EndGlobal
